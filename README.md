@@ -1,1 +1,3 @@
-# OOP-Project
+Inventory Management System in C++
+
+This is a console-based Inventory Management System developed using Object-Oriented Programming (OOP) principles in C++. The system allows users to manage products by adding, removing, updating, and viewing item details. It utilizes concepts like inheritance, encapsulation, and polymorphism. The Item class serves as the base class, while Product is a derived class with additional attributes like description and supplier. The inventory is managed using std::vector and unique_ptr for dynamic memory handling. Input validation ensures all user entries are accurate and safe. This project demonstrates practical use of OOP and STL in C++ to build an interactive menu-driven application.
